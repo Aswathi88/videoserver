@@ -1,0 +1,169 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "RDX",
+      "cover_image": "https://i.postimg.cc/T1P2cdsC/download-1.jpg",
+      "video_url": "https://www.youtube.com/embed/nYEoxne_20Y?autoplay=1"
+    },
+    {
+      "id": 5,
+      "caption": "Kantara - Varaha Roopam Video Song",
+      "cover_image": "https://i.postimg.cc/FzfwNBj6/kanatra.jpg",
+      "video_url": "https://www.youtube.com/embed/m-5ck3BuT1o?autoplay=1"
+    },
+    {
+      "id": 6,
+      "caption": "Aaradhike Video Song",
+      "cover_image": "https://i.postimg.cc/SRPF9zLJ/ambili.jpg",
+      "video_url": "https://www.youtube.com/embed/dAezp422I_A?autoplay=1"
+    },
+    {
+      "id": 7,
+      "caption": "Vaarkadal ",
+      "cover_image": "https://i.postimg.cc/jjGPnNnR/OIP-3.jpg",
+      "video_url": "https://www.youtube.com/embed/lXIhTB0i1N4?autoplay=1"
+    },
+    {
+      "id": 8,
+      "caption": "LEO - Official Trailer",
+      "cover_image": "https://i.postimg.cc/hvmy6xNj/download.jpg",
+      "video_url": "https://www.youtube.com/embed/Po3jStA673E&t=4s?autoplay=1"
+    },
+    {
+      "id": 9,
+      "caption": "5 kg TURKEY GRILLED",
+      "cover_image": "https://i.postimg.cc/JhbjfxzS/OIP-4.jpg",
+      "video_url": "https://www.youtube.com/embed/09aXO6mSDAA?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Musics",
+      "videos": [
+        {
+          "id": 6,
+          "caption": "Aaradhike Video Song",
+          "cover_image": "https://i.postimg.cc/SRPF9zLJ/ambili.jpg",
+          "video_url": "https://www.youtube.com/embed/dAezp422I_A?autoplay=1"
+        },
+        {
+          "id": 5,
+          "caption": "Kantara - Varaha Roopam Video Song",
+          "cover_image": "https://i.postimg.cc/FzfwNBj6/kanatra.jpg",
+          "video_url": "https://www.youtube.com/embed/m-5ck3BuT1o?autoplay=1"
+        },
+        {
+          "id": 7,
+          "caption": "Vaarkadal ",
+          "cover_image": "https://i.postimg.cc/jjGPnNnR/OIP-3.jpg",
+          "video_url": "https://www.youtube.com/embed/lXIhTB0i1N4?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Movie Teaser",
+      "videos": [
+        {
+          "id": 8,
+          "caption": "LEO - Official Trailer",
+          "cover_image": "https://i.postimg.cc/hvmy6xNj/download.jpg",
+          "video_url": "https://www.youtube.com/embed/Po3jStA673E&t=4s?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lo70qrhe",
+      "name": "Food vlogs",
+      "videos": [
+        {
+          "id": 9,
+          "caption": "5 kg TURKEY GRILLED",
+          "cover_image": "https://i.postimg.cc/JhbjfxzS/OIP-4.jpg",
+          "video_url": "https://www.youtube.com/embed/09aXO6mSDAA?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Traveling",
+      "videos": []
+    }
+  ],
+  "histories": [
+    {
+      "id": 2,
+      "video_title": "RDX",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y?autoplay=1",
+      "date": "2023-10-26 5:32:50 PM"
+    },
+    {
+      "video_title": "Aaradhike Video Song",
+      "url": "https://www.youtube.com/embed/dAezp422I_A?autoplay=1",
+      "date": "2023-10-26 5:38:02 PM",
+      "id": 4
+    },
+    {
+      "video_title": "Kantara - Varaha Roopam Video Song",
+      "url": "https://www.youtube.com/embed/m-5ck3BuT1o?autoplay=1",
+      "date": "2023-10-26 6:56:00 PM",
+      "id": 5
+    },
+    {
+      "video_title": "Vaarkadal ",
+      "url": "https://www.youtube.com/embed/lXIhTB0i1N4?autoplay=1",
+      "date": "2023-10-26 6:56:04 PM",
+      "id": 6
+    },
+    {
+      "video_title": "5 kg TURKEY GRILLED",
+      "url": "https://www.youtube.com/embed/09aXO6mSDAA?autoplay=1",
+      "date": "2023-10-26 6:56:21 PM",
+      "id": 7
+    },
+    {
+      "video_title": "LEO - Official Trailer",
+      "url": "https://www.youtube.com/embed/Po3jStA673E&t=4s?autoplay=1",
+      "date": "2023-10-27 8:56:32 AM",
+      "id": 8
+    },
+    {
+      "video_title": "LEO - Official Trailer",
+      "url": "https://www.youtube.com/embed/Po3jStA673E&t=4s?autoplay=1",
+      "date": "2023-10-27 8:56:46 AM",
+      "id": 9
+    },
+    {
+      "video_title": "Aaradhike Video Song",
+      "url": "https://www.youtube.com/embed/dAezp422I_A?autoplay=1",
+      "date": "2023-10-27 8:56:54 AM",
+      "id": 10
+    },
+    {
+      "video_title": "LEO - Official Trailer",
+      "url": "https://www.youtube.com/embed/Po3jStA673E&t=4s?autoplay=1",
+      "date": "2023-10-27 10:20:43 AM",
+      "id": 11
+    },
+    {
+      "video_title": "Vaarkadal ",
+      "url": "https://www.youtube.com/embed/lXIhTB0i1N4?autoplay=1",
+      "date": "2023-10-27 10:34:26 AM",
+      "id": 12
+    },
+    {
+      "video_title": "Kantara - Varaha Roopam Video Song",
+      "url": "https://www.youtube.com/embed/m-5ck3BuT1o?autoplay=1",
+      "date": "2023-10-27 10:45:35 AM",
+      "id": 13
+    },
+    {
+      "video_title": "5 kg TURKEY GRILLED",
+      "url": "https://www.youtube.com/embed/09aXO6mSDAA?autoplay=1",
+      "date": "2023-10-28 1:12:04 PM",
+      "id": 14
+    }
+  ]
+}
